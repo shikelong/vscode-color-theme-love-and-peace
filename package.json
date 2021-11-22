@@ -3,6 +3,8 @@
     "displayName": "love-and-peace",
     "description": "",
     "version": "0.0.1",
+    "publisher": "rioshi",
+    "repository": "https://github.com/shikelong/vscode-color-theme-love-and-peace",
     "engines": {
         "vscode": "^1.62.0"
     },
