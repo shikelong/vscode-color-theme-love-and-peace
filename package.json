@@ -1,0 +1,21 @@
+{
+    "name": "love-and-peace",
+    "displayName": "love-and-peace",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Love and Peace",
+                "uiTheme": "vs",
+                "path": "./themes/Love and Peace-color-theme.json"
+            }
+        ]
+    }
+}
